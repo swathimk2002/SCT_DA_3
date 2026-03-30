@@ -77,7 +77,7 @@ The dashboard includes:
 - Designing interactive dashboards in Power BI  
 - Turning raw data into meaningful business insights 
 ---
-## 🚀 Conclusion
+##  Conclusion
 This dashboard provides a clear view of employee attrition and highlights the main factors influencing it. The insights can help organizations take steps to improve employee satisfaction and retention.
 
 
